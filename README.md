@@ -20,6 +20,6 @@ continuous learning and professional growth and embracing new challenges in tech
 ![](https://github-contributor-stats.vercel.app/api?username=/muhammed-farooq&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ThanoojKhan&icon=4&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=muhammed-farooq&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
